@@ -1,5 +1,5 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
-
+# encoding: utf-8
 one:
   title: MyString
   description: MyText
@@ -11,3 +11,10 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+ 
+ruby:
+    title: 刀剑神域
+    description:
+        少年少女沉迷杀人网游，抢装备抢女人腔boss到底闹哪样？
+    price: 34.00
+    image_url: sao.png
