@@ -114,6 +114,10 @@ body{
   margin-right: 2em;
 }
 
+#store .entry  form,#store .entry form div {
+	display: inline;
+}
+
 /* Styles for main page */
 #banner{
 	background: #9c9;
