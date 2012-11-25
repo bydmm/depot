@@ -10,7 +10,7 @@ two:
   title: MyString
   description: MyText
   image_url: MyString
-  price: 9.99
+  price: 9，999.99
  
 sao:
     title: 刀剑神域
@@ -18,3 +18,9 @@ sao:
         少年少女沉迷杀人网游，抢装备抢女人腔boss到底闹哪样？
     price: 34.00
     image_url: sao.png
+    
+ruby:
+    title: Programming Ruby 1.9
+    description: Ruby is the fastest growing
+    price: 49.50  
+    image_url: ruby.png
